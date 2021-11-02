@@ -1,5 +1,5 @@
 Выполненные работы:
 Files (int);
 Files (com);
-Threads;
-Bruteforce;
+Threads (Task_2);
+Bruteforce (Lab_1);
