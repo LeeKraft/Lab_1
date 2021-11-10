@@ -1,6 +1,6 @@
 # SAST
 ## Пункт №1
-![image](![image](https://user-images.githubusercontent.com/23276203/141159358-67ccb967-04e7-4239-a075-500bb66565f8.png))
+![image](https://user-images.githubusercontent.com/23276203/141159358-67ccb967-04e7-4239-a075-500bb66565f8.png)
 
 ## Пункт №2
 
